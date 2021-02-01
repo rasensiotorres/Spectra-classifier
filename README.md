@@ -11,7 +11,7 @@
 -->
 
 [<img src="https://img.shields.io/badge/Python->3.5-yellow.svg?style=flat">](https://www.python.org/)
-[<img src="https://img.shields.io/badge/ADS-AsensioTorres2019-violet.svg?style=flat">](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..42A/abstract)
+[<img src="https://img.shields.io/badge/ADS-AsensioTorres (2019)-violet.svg?style=flat">](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..42A/abstract)
 [<img src="https://img.shields.io/badge/Astropy-4.2-green.svg?style=flat">](https://www.astropy.org/)
 [<img src="https://img.shields.io/badge/Linkedin-blue.svg?style=flat">](https://www.linkedin.com/in/rub%C3%A9n-asensio-torres-phd-482352169/)
 
