@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rasensiotorres/Spectral-fit/">
-    <img src="images/chisq.png" alt="Logo" width="420" height="350">
+    <img src="images/chisq.png" alt="Logo" width="480" height="350">
   </a>
 
   <h3 align="center">Spectral fit</h3>
