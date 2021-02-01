@@ -12,7 +12,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <img src="https://img.shields.io/badge/Python->3.5-yellow.svg?style=flat"> 
-[<img src="https://img.shields.io/pypi/v/vlt-sphere.svg?colorB=<brightgreen>">]
+<img src="https://img.shields.io/pypi/v/vlt-sphere.svg?colorB=<brightgreen>">
 
 
 <!-- PROJECT LOGO -->
