@@ -66,7 +66,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
- <img src="images/HIP_79124_B_Luhman.png" alt="Logo" width="320" height="280">
+ <img src="images/HIP_79124_B_Luhman.png" alt="Logo" width="340" height="300">
  
 This a routine to classify the infrared spectrum of low mass stars. The input spectrum is compared to spectral libraries of young objects via the chi-square goodness of fit statistic, including correlated errors. Youth is mostly indicated in low-resolution near-IR spectra in the triangular H-band continuum shape, which becomes less pronounced as one moves from very low(δ) to low(γ) and intermediate-gravity(β) late M- and L-type dwarfs. Other indicators exist also in the J and K bands, such as FeH absorption (McLean et al. 2003) or the K-band slope.
 
@@ -76,7 +76,8 @@ We can choose between two different spectral libraries::
 * Dereddened near-IR standard spectral templates (Luhman et al. (2017)): Combination of several optical spectra for each subtype in the M spectral region. These
 resulting templates are representatives of the Sco-Cen and TWA associations, with an age of about 10 Myrs. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+This routine has been used in the scientific paper [Asensio-Torres et al. 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..42A/abstract), published in the Journal Astronomy & Astrophysics.
+
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
