@@ -28,7 +28,7 @@
   <h3 align="center">Spectral fit</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A pipeline to fit and classify the infrared spectrum of low-mass stars
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
