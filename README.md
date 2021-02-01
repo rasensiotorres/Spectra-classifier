@@ -66,7 +66,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
- <img src="images/HIP_79124_B_Luhman.png" alt="Logo" width="240" height="180">
+ <img src="images/HIP_79124_B_Luhman.png" alt="Logo" width="320" height="280">
  
 This a routine to classify the infrared spectrum of low mass stars. The input spectrum is compared to spectral libraries of young objects via the chi-square goodness of fit statistic, including correlated errors. Youth is mostly indicated in low-resolution near-IR spectra in the triangular H-band continuum shape, which becomes less pronounced as one moves from very low(δ) to low(γ) and intermediate-gravity(β) late M- and L-type dwarfs. Other indicators exist also in the J and K bands, such as FeH absorption (McLean et al. 2003) or the K-band slope.
 
