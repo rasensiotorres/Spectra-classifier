@@ -11,7 +11,7 @@
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[<img src="https://img.shields.io/badge/Python->3.5-yellow.svg?style=flat">]
+[<img src="https://img.shields.io/badge/Python->3.5-yellow.svg?style=flat">]()
 [<img src="https://img.shields.io/badge/Python->3.5-yellow.svg?style=flat">](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..42A/abstract)
 
 
