@@ -9,7 +9,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 [<img src="https://img.shields.io/badge/Python->3.5-yellow.svg?style=flat">](https://www.python.org/)
 [<img src="https://img.shields.io/badge/ADS-AsensioTorres2019-violet.svg?style=flat">](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..42A/abstract)
