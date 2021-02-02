@@ -79,17 +79,11 @@ We can choose between two different spectral libraries::
 * Dereddened near-IR standard spectral templates (Luhman et al. (2017)): Combination of several optical spectra for each subtype in the M spectral region. These
 resulting templates are representatives of the Sco-Cen and TWA associations, with an age of about 10 Myrs. 
 
-This routine has been used in the scientific paper [Asensio-Torres et al. 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..42A/abstract), published in the Journal Astronomy & Astrophysics.
+In the chi-square goodness of fit statistic we incorporate the correlated errors via the covariance matrix C, following Greco & Brandt (2016). This routine has been used in the scientific paper [Asensio-Torres et al. 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..42A/abstract), published in the Journal Astronomy & Astrophysics.
 
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+This package has been built with Python 3.5, and requires Pandas, Numpy, Scipy, Matplotlib and Astropy 
 
 
 
