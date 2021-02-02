@@ -1,4 +1,4 @@
-# Spectral-fit
+# Spectra classifier [In construction] 
 
 
 <!-- PROJECT SHIELDS -->
